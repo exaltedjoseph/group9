@@ -1,0 +1,7 @@
+Data Analysis practice
+Date: 2026-10-04
+
+1. Make a NumPy array of five study minutes and print the mean.
+2. Build a DataFrame with module and score columns.
+3. Filter to one module.
+4. Say which chart you would use to compare average scores by module, and why.

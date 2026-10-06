@@ -1,0 +1,8 @@
+Python Fundamentals practice
+Date: 2026-10-01
+
+1. Store a module name, a week number, and a pass/fail flag in three variables.
+2. Print the numbers from 1 to 20 that are divisible by 3.
+3. Write a function average(scores) that returns the mean of a list.
+4. Build a dict of three topics and the minutes you plan to study each one.
+5. Write that dict to a text file and handle a missing file on the way back in.

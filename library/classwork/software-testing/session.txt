@@ -1,0 +1,7 @@
+Software Testing practice
+Date: 2026-10-05
+
+1. Write a pytest test for a function that has not been implemented yet.
+2. Run it and confirm it fails.
+3. Implement the function until the test passes.
+4. Describe one bug you would catch by reading the traceback bottom-up.

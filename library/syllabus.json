@@ -1,0 +1,173 @@
+{
+  "version": 1,
+  "modules": [
+    {
+      "id": "python-fundamentals",
+      "name": "Python Fundamentals",
+      "description": "Core Python syntax and problem solving.",
+      "color": "blue",
+      "topics": [
+        {
+          "id": "variables-and-data-types",
+          "name": "Variables & Data Types"
+        },
+        {
+          "id": "control-flow",
+          "name": "Control Flow"
+        },
+        {
+          "id": "functions",
+          "name": "Functions"
+        },
+        {
+          "id": "data-structures",
+          "name": "Data Structures"
+        },
+        {
+          "id": "files-and-exceptions",
+          "name": "Files & Exceptions"
+        }
+      ]
+    },
+    {
+      "id": "object-oriented-programming",
+      "name": "Object-Oriented Programming",
+      "description": "Designing programs with classes and objects.",
+      "color": "purple",
+      "topics": [
+        {
+          "id": "classes-and-objects",
+          "name": "Classes & Objects"
+        },
+        {
+          "id": "inheritance-and-polymorphism",
+          "name": "Inheritance & Polymorphism"
+        },
+        {
+          "id": "design-principles",
+          "name": "Design Principles"
+        }
+      ]
+    },
+    {
+      "id": "version-control-with-git",
+      "name": "Version Control with Git",
+      "description": "Tracking and sharing work with Git and GitHub.",
+      "color": "orange",
+      "topics": [
+        {
+          "id": "git-basics",
+          "name": "Git Basics"
+        },
+        {
+          "id": "branching-and-merging",
+          "name": "Branching & Merging"
+        },
+        {
+          "id": "collaboration-and-pull-requests",
+          "name": "Collaboration & Pull Requests"
+        }
+      ]
+    },
+    {
+      "id": "databases-and-sql",
+      "name": "Databases & SQL",
+      "description": "Relational data, SQL and using databases from Python.",
+      "color": "green",
+      "topics": [
+        {
+          "id": "relational-design",
+          "name": "Relational Design"
+        },
+        {
+          "id": "sql-queries",
+          "name": "SQL Queries"
+        },
+        {
+          "id": "python-and-sqlite",
+          "name": "Python & SQLite"
+        }
+      ]
+    },
+    {
+      "id": "desktop-gui-development",
+      "name": "Desktop GUI Development",
+      "description": "Building desktop interfaces in Python.",
+      "color": "teal",
+      "topics": [
+        {
+          "id": "widgets-and-layouts",
+          "name": "Widgets & Layouts"
+        },
+        {
+          "id": "events-and-callbacks",
+          "name": "Events & Callbacks"
+        },
+        {
+          "id": "packaging-apps",
+          "name": "Packaging Apps"
+        }
+      ]
+    },
+    {
+      "id": "data-analysis",
+      "name": "Data Analysis",
+      "description": "Working with data using NumPy, pandas and charts.",
+      "color": "pink",
+      "topics": [
+        {
+          "id": "numpy",
+          "name": "NumPy"
+        },
+        {
+          "id": "pandas",
+          "name": "pandas"
+        },
+        {
+          "id": "data-visualization",
+          "name": "Data Visualization"
+        }
+      ]
+    },
+    {
+      "id": "software-testing",
+      "name": "Software Testing",
+      "description": "Writing reliable code with tests and debugging.",
+      "color": "indigo",
+      "topics": [
+        {
+          "id": "unit-testing",
+          "name": "Unit Testing"
+        },
+        {
+          "id": "test-driven-development",
+          "name": "Test-Driven Development"
+        },
+        {
+          "id": "debugging",
+          "name": "Debugging"
+        }
+      ]
+    },
+    {
+      "id": "ai-and-apis",
+      "name": "AI & APIs",
+      "description": "Calling web APIs and working with AI models.",
+      "color": "mint",
+      "topics": [
+        {
+          "id": "working-with-apis",
+          "name": "Working with APIs"
+        },
+        {
+          "id": "prompt-design",
+          "name": "Prompt Design"
+        },
+        {
+          "id": "gemini-api",
+          "name": "Gemini API"
+        }
+      ]
+    }
+  ]
+}
