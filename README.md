@@ -1,5 +1,5 @@
 # Study Library
-<!-- fixing duplicate code -->
+
 A desktop **Resource Database Study System** for the internship program (Group 9 project proposal).
 Facilitators upload notes, slides and exercises, tag them by module and log every classwork session.
 Interns browse by module, search by keyword and download what they need. Gemini only *suggests*
