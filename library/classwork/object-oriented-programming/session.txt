@@ -1,0 +1,7 @@
+Object-Oriented Programming practice
+Date: 2026-10-02
+
+1. Create a Resource class with title and module_id.
+2. Add a subclass Exercise that stores a due date and overrides a summary method.
+3. Put three objects in a list and print each summary in a loop.
+4. Move validation of an empty title into the class instead of the caller.
