@@ -1,0 +1,7 @@
+Databases and SQL practice
+Date: 2026-10-03
+
+1. Sketch a modules table and a resources table with a foreign key.
+2. Insert two modules and three resources.
+3. Select the resource titles for one module.
+4. Run that query from Python with a ? parameter.

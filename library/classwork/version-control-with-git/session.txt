@@ -1,0 +1,7 @@
+Version Control practice
+Date: 2026-10-03
+
+1. Clone or init a repository and make the first commit on main.
+2. Create a branch, change one file, and commit.
+3. Merge that branch back and draw the commits with git log --graph.
+4. Write a commit message that says why the change exists.

@@ -1,0 +1,184 @@
+{
+  "version": 1,
+  "resources": [
+    {
+      "id": "6b028bc99b06",
+      "title": "Python Fundamentals Notes",
+      "module_id": "python-fundamentals",
+      "topic_id": "variables-and-data-types",
+      "kind": "notes",
+      "description": "Syntax, types, control flow, functions, collections, and files.",
+      "keywords": [
+        "python",
+        "variables",
+        "functions",
+        "lists",
+        "files"
+      ],
+      "filename": "notes.md",
+      "path": "resources/python-fundamentals/notes.md",
+      "size": 1399,
+      "sha256": "6e04bccc01ae0f03b74411f4207b8d109d14c7e329bd969bc86bfbaef51356ae",
+      "uploader": "branch1",
+      "created_at": 1791302400.0,
+      "updated_at": 1791302400.0,
+      "ai_suggested": false
+    },
+    {
+      "id": "dcb0f7120aa6",
+      "title": "Object-Oriented Programming Notes",
+      "module_id": "object-oriented-programming",
+      "topic_id": "classes-and-objects",
+      "kind": "notes",
+      "description": "Classes, objects, inheritance, and small design rules.",
+      "keywords": [
+        "classes",
+        "objects",
+        "inheritance",
+        "encapsulation"
+      ],
+      "filename": "notes.md",
+      "path": "resources/object-oriented-programming/notes.md",
+      "size": 929,
+      "sha256": "b5576b3f2141e3143819d5680573ef79355bcbd5cfb6537fd67f834a2775e5c3",
+      "uploader": "branch2",
+      "created_at": 1791302401.0,
+      "updated_at": 1791302401.0,
+      "ai_suggested": false
+    },
+    {
+      "id": "57f750acd4c9",
+      "title": "Version Control with Git Notes",
+      "module_id": "version-control-with-git",
+      "topic_id": "git-basics",
+      "kind": "notes",
+      "description": "Commits, branches, merges, and pull requests.",
+      "keywords": [
+        "git",
+        "commit",
+        "branch",
+        "merge",
+        "pull request"
+      ],
+      "filename": "notes.md",
+      "path": "resources/version-control-with-git/notes.md",
+      "size": 769,
+      "sha256": "c7aee962521855cd2fa15ed1bf8662e90ff31da2df7b67217b18cc347d762c77",
+      "uploader": "branch3",
+      "created_at": 1791302402.0,
+      "updated_at": 1791302402.0,
+      "ai_suggested": false
+    },
+    {
+      "id": "81bae4d0aef8",
+      "title": "Databases and SQL Notes",
+      "module_id": "databases-and-sql",
+      "topic_id": "sql-queries",
+      "kind": "notes",
+      "description": "Tables, keys, queries, and sqlite3 from Python.",
+      "keywords": [
+        "sql",
+        "sqlite",
+        "tables",
+        "queries"
+      ],
+      "filename": "notes.md",
+      "path": "resources/databases-and-sql/notes.md",
+      "size": 750,
+      "sha256": "71a319c40626ddf7201c31d6b0d71116e97e0c493bbeea6a3706aef5c7095f59",
+      "uploader": "branch3",
+      "created_at": 1791302403.0,
+      "updated_at": 1791302403.0,
+      "ai_suggested": false
+    },
+    {
+      "id": "30e2a2ffc287",
+      "title": "Desktop GUI Notes",
+      "module_id": "desktop-gui-development",
+      "topic_id": "widgets-and-layouts",
+      "kind": "notes",
+      "description": "Widgets, layouts, events, and packaging a Python desktop app.",
+      "keywords": [
+        "gui",
+        "widgets",
+        "layouts",
+        "events",
+        "pyside"
+      ],
+      "filename": "notes.md",
+      "path": "resources/desktop-gui-development/notes.md",
+      "size": 768,
+      "sha256": "6bb71bad73df406b34daab1bdcaf1c816fd4863c682c76402435fa62568f7490",
+      "uploader": "branch4",
+      "created_at": 1791302404.0,
+      "updated_at": 1791302404.0,
+      "ai_suggested": false
+    },
+    {
+      "id": "546a24d4df27",
+      "title": "Data Analysis Notes",
+      "module_id": "data-analysis",
+      "topic_id": "pandas",
+      "kind": "notes",
+      "description": "Arrays with NumPy, tables with pandas, and a simple chart.",
+      "keywords": [
+        "numpy",
+        "pandas",
+        "charts",
+        "data"
+      ],
+      "filename": "notes.md",
+      "path": "resources/data-analysis/notes.md",
+      "size": 698,
+      "sha256": "de3e235bc738555c9a2a8f7d9aad3282dd2fb1da03525d3136230e48a79d8bd1",
+      "uploader": "branch4",
+      "created_at": 1791302405.0,
+      "updated_at": 1791302405.0,
+      "ai_suggested": false
+    },
+    {
+      "id": "58b27a59f363",
+      "title": "Software Testing Notes",
+      "module_id": "software-testing",
+      "topic_id": "unit-testing",
+      "kind": "notes",
+      "description": "Unit tests, test-driven development, and a short debugging loop.",
+      "keywords": [
+        "pytest",
+        "testing",
+        "tdd",
+        "debugging"
+      ],
+      "filename": "notes.md",
+      "path": "resources/software-testing/notes.md",
+      "size": 726,
+      "sha256": "6987cc151e37757d557fd727c64bc2b0dc50ef3350966b05512e0d8151c472e9",
+      "uploader": "branch5",
+      "created_at": 1791302406.0,
+      "updated_at": 1791302406.0,
+      "ai_suggested": false
+    },
+    {
+      "id": "8af7c529808d",
+      "title": "AI and APIs Notes",
+      "module_id": "ai-and-apis",
+      "topic_id": "working-with-apis",
+      "kind": "notes",
+      "description": "HTTP APIs, prompt design, and calling the Gemini API.",
+      "keywords": [
+        "api",
+        "http",
+        "prompts",
+        "gemini"
+      ],
+      "filename": "notes.md",
+      "path": "resources/ai-and-apis/notes.md",
+      "size": 791,
+      "sha256": "1dbb33490c9f1a091ff34967b3a79363fcda9e44c256094c1e1b9b8182834d54",
+      "uploader": "branch5",
+      "created_at": 1791302407.0,
+      "updated_at": 1791302407.0,
+      "ai_suggested": false
+    }
+  ]
+}
