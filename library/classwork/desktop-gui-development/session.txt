@@ -1,0 +1,7 @@
+Desktop GUI practice
+Date: 2026-10-04
+
+1. List the widgets for a "add resource" form: title, module, and a save button.
+2. Decide which layout groups them.
+3. Write the callback the save button should call.
+4. Note one file you would ship beside the program and one you would not.
