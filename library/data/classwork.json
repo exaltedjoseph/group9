@@ -1,0 +1,109 @@
+{
+  "version": 1,
+  "classwork": [
+    {
+      "id": "b2c8204ca358",
+      "module_id": "python-fundamentals",
+      "topic_id": "variables-and-data-types",
+      "date": "2026-10-01",
+      "title": "Python fundamentals practice",
+      "description": "Short exercises on types, branches, functions, and files.",
+      "facilitator": "branch1",
+      "attachment": "classwork/python-fundamentals/session.txt",
+      "attachment_name": "session.txt",
+      "created_at": 1791302400.0,
+      "updated_at": 1791302400.0
+    },
+    {
+      "id": "0d81a3b0ec85",
+      "module_id": "object-oriented-programming",
+      "topic_id": "classes-and-objects",
+      "date": "2026-10-02",
+      "title": "Classes and inheritance practice",
+      "description": "Model a resource and a subclass, then keep data behind methods.",
+      "facilitator": "branch2",
+      "attachment": "classwork/object-oriented-programming/session.txt",
+      "attachment_name": "session.txt",
+      "created_at": 1791302401.0,
+      "updated_at": 1791302401.0
+    },
+    {
+      "id": "0b0e11eafe94",
+      "module_id": "version-control-with-git",
+      "topic_id": "git-basics",
+      "date": "2026-10-03",
+      "title": "Branch and merge practice",
+      "description": "Create a branch, commit on it, and merge it back to main.",
+      "facilitator": "branch3",
+      "attachment": "classwork/version-control-with-git/session.txt",
+      "attachment_name": "session.txt",
+      "created_at": 1791302402.0,
+      "updated_at": 1791302402.0
+    },
+    {
+      "id": "03c82ce36caf",
+      "module_id": "databases-and-sql",
+      "topic_id": "sql-queries",
+      "date": "2026-10-03",
+      "title": "SQL query practice",
+      "description": "Design a small table and query it from Python.",
+      "facilitator": "branch3",
+      "attachment": "classwork/databases-and-sql/session.txt",
+      "attachment_name": "session.txt",
+      "created_at": 1791302403.0,
+      "updated_at": 1791302403.0
+    },
+    {
+      "id": "942f6b5c52e1",
+      "module_id": "desktop-gui-development",
+      "topic_id": "widgets-and-layouts",
+      "date": "2026-10-04",
+      "title": "Widget layout practice",
+      "description": "Sketch a window and connect one button to a callback.",
+      "facilitator": "branch4",
+      "attachment": "classwork/desktop-gui-development/session.txt",
+      "attachment_name": "session.txt",
+      "created_at": 1791302404.0,
+      "updated_at": 1791302404.0
+    },
+    {
+      "id": "f0180f83821f",
+      "module_id": "data-analysis",
+      "topic_id": "pandas",
+      "date": "2026-10-04",
+      "title": "pandas table practice",
+      "description": "Load a tiny table, filter it, and describe what a chart would show.",
+      "facilitator": "branch4",
+      "attachment": "classwork/data-analysis/session.txt",
+      "attachment_name": "session.txt",
+      "created_at": 1791302405.0,
+      "updated_at": 1791302405.0
+    },
+    {
+      "id": "088a062fe3e3",
+      "module_id": "software-testing",
+      "topic_id": "unit-testing",
+      "date": "2026-10-05",
+      "title": "Unit test practice",
+      "description": "Write one failing test, make it pass, then trace a bug.",
+      "facilitator": "branch5",
+      "attachment": "classwork/software-testing/session.txt",
+      "attachment_name": "session.txt",
+      "created_at": 1791302406.0,
+      "updated_at": 1791302406.0
+    },
+    {
+      "id": "df723d42ade7",
+      "module_id": "ai-and-apis",
+      "topic_id": "working-with-apis",
+      "date": "2026-10-06",
+      "title": "API and prompt practice",
+      "description": "Describe one API request and a prompt that asks only for tags.",
+      "facilitator": "branch5",
+      "attachment": "classwork/ai-and-apis/session.txt",
+      "attachment_name": "session.txt",
+      "created_at": 1791302407.0,
+      "updated_at": 1791302407.0
+    }
+  ]
+}
